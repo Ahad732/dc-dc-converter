@@ -1,2 +1,2 @@
 # dc-dc converter
-i have made a DC-DC Converter it gives 5v output to any input voltage . its like a buck converter but for a fixed output vloltage. i used LMR33630 ic for it.I copied it from a on paper schematic and also added some changes.
+i have made a DC-DC Converter it gives 5v output to any input voltage . its like a buck converter but for a fixed output vloltage. i used LMR33630 ic for it.I copied it from a on paper schematic that i made and also added some changes.
