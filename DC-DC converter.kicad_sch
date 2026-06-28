@@ -3465,7 +3465,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_Littelfuse_372_D8.50mm"
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 76.2 90.678 90)
 			(effects
 				(font
